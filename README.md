@@ -5,6 +5,8 @@
 
 其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块，由于图形化比较简明易懂，所以也不需要使用说明吧 。<br>
 
+本项目的部分payload进行了一些混淆，具备一定过waf能力，有空会更新所有的payload<br>
+
 项目参考了许多师傅们的优秀项目，感谢<br>
 
 ![image](https://github.com/pureqh/hyacinth/assets/45117428/3d5d4cb7-58a2-4c47-871a-a6c7a73a3922)
