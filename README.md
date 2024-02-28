@@ -10,5 +10,6 @@
 项目参考了许多师傅们的优秀项目，感谢<br>
 
 注：mac显示有问题，目前只支持windows平台 后续会优化
+![image](https://github.com/pureqh/Hyacinth/assets/45117428/5f75dba8-2358-4fbe-a235-2e2aeb0f104e)
 
-![image](https://github.com/pureqh/hyacinth/assets/45117428/3d5d4cb7-58a2-4c47-871a-a6c7a73a3922)
+
