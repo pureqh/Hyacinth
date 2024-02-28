@@ -9,7 +9,7 @@
 
 项目参考了许多师傅们的优秀项目，感谢<br>
 
-注：mac显示有问题，目前只支持windows平台 后续会优化
+注：mac显示有问题，目前只支持windows平台 后续会优化（可能）
 ![image](https://github.com/pureqh/Hyacinth/assets/45117428/5f75dba8-2358-4fbe-a235-2e2aeb0f104e)
 
 
